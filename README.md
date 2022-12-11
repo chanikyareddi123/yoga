@@ -22,6 +22,8 @@ same month they need to be in same batch
 ![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/yoga_firm_schema_page-0004.jpg)
 ![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/yoga_firm_schema_page-0005.jpg)
 
+## E-R Diagram
+![](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/images/er.jpg)
 ### Step 2
 - Choosing Tech Stack
 HTML, CSS, Javascript, MySQL, Php
@@ -32,3 +34,4 @@ HTML, CSS, Javascript, MySQL, Php
 2. After submitting details, redirect to payment page.
 3. After payment, Login through email and password.
 4. View Details and Edit Batch timings in portal.
+
