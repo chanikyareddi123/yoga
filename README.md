@@ -34,4 +34,4 @@ HTML, CSS, Javascript, MySQL, Php
 2. After submitting details, redirect to payment page.
 3. After payment, Login through email and password.
 4. View Details and Edit Batch timings in portal.
-
+explaination.mp4
