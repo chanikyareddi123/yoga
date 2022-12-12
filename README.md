@@ -34,4 +34,7 @@ HTML, CSS, Javascript, MySQL, Php
 2. After submitting details, redirect to payment page.
 3. After payment, Login through email and password.
 4. View Details and Edit Batch timings in portal.
-explaination.mp4
+
+## Video Explaination
+[![Watch the video](https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80)](https://github.com/akshatprogrammer/yoga-form-crud/blob/master/explaination.mp4)
+</br> **Click on the thumbail to see the process**
